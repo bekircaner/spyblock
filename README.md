@@ -1,6 +1,6 @@
 # spyblock
 
-Windows/NSA SpyBlock Hosts List 
+Windows/NSA SpyBlock/Miner Hosts List 
 
 This list collected from a lot of source.
 
